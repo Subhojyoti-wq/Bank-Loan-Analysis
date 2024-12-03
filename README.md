@@ -3,7 +3,7 @@
 The project aimed to streamline and enhance the lending processes of a major U.S. Bank by leveraging advanced financial solutions, Home loans, Mortgage, and improving customer experience.
 
 Key Activities: Analysis of existing loan processes and identification of inefficiencies. Development of a custom lending platform or integration with existing systems like CRM, loan origination software (LOS), or core banking solutions. 
-Automation of routine tasks, such as credit scoring, and document verification, to reduce turnaround time. Check the Repayment histories (payments made, overdue payments, defaults).
+Automation of routine tasks, such as credit scoring, and document verification, to reduce turn around time. Check the Repayment histories (payments made, overdue payments, defaults).
 
 ## Tools and Technologies: 
 Data Storage & Querying: MySQL Database, Aggregate functions, SQL Joins.
