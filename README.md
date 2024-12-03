@@ -8,7 +8,7 @@ Automation of routine tasks, such as credit scoring, and document verification, 
 ## Tools and Technologies: 
 Data Storage & Querying: MySQL Database, Aggregate functions, SQL Joins.
 
-Data Cleaning & Visualization: Power BI, Visualization charts, KPIs.
+Data Cleaning & Visualization: Power BI, DAX Query, Visualization charts, KPIs.
 
 ETL Pipeline: SQL-based scripts, Power Query Editor, Excel.
 
